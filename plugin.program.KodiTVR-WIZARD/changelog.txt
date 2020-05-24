@@ -1,1 +1,2 @@
-version = 1.0.0 - 22.05.2020
+v0.0.1
+-Initial Release
