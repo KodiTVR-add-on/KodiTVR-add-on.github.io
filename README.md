@@ -1,5 +1,5 @@
 # repository.KodiTVR
-# Versão Actual: 1.4
+# https://github.com/KodiTVR-add-on/KodiTVR.github.io/
 
 Instruções para a adição deste repo:
 
