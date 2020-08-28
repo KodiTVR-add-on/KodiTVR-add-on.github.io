@@ -1,5 +1,5 @@
-# repository.KodiTVR
-# https://github.com/KodiTVR-add-on/KodiTVR.github.io/
+# wizard-KodiTVR
+Aqui instala tudo da KodiTVR!...
 
 Instruções para a adição deste repo:
 
@@ -8,16 +8,11 @@ Instruções para a adição deste repo:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>https://github.com/KodiTVR-add-on/KodiTVR.github.io/</code> (Dar o nome de "KodiTVR Repo").</li>
+    <li>O endereço para a fonte é <code>https://github.com/KodiTVR-add-on/KodiTVR.github.io/wizard-KodiTVR</code> (Dar o nome de "KodiTVR wizard").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "KodiTVR Repo", e instalar <a href="repository.KodiTVR.zip">repository.KodiTVR.zip</a>.</li>
-    <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
-    <li>Selecionar o "Repository KodiTVR"</li>
-    
-    <li>Agora espero que escolham tudo KodiTVR!</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "KodiTVR wizard", e instalar <a href="plugin.program.KodiTVR-WIZARD.zip">plugin.program.KodiTVR-WIZARD.zip</a>.</li>  
+    <li>Agora o resto fica á vossa escolha</li>
   </ul>
 </p>
 
 ## Enjoy!
- 
- 

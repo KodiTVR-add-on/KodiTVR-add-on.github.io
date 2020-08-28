@@ -24,17 +24,7 @@
 	<extension point="xbmc.addon.repository" name="[B][COLOR yellow]repository [COLOR yellow]KodiTVR[/B][/COLOR]">
 		<info compressed="false">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/repository.KodiTVR/addon.xml</datadir>
-		<dir>
-			<info compressed="true">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/krypton/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/krypton/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/krypton</datadir>
-		</dir>
-		<dir>
-			<info compressed="true">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/leia/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/leia/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/leia</datadir>
-		</dir> 
+		<datadir zip="true">https://raw.githubusercontent.com/KodiTVR-add-on/repository.KodiTVR/master/repo/repository.KodiTVR/addon.xml</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>KodiTVR Repo</summary>
@@ -44,4 +34,3 @@
 		<news>[I]v1.2[/I][CR]- Suporte para uma Skin!</news>
 	</extension>
 </addon>
-
