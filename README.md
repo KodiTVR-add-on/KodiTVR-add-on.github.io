@@ -1,5 +1,3 @@
-# https://KodiTVR.github.io
-
 <section id="main_content">
         <h1 id="httpsKodiTVRgithubio">https://KodiTVR.github.io</h1>
 
