@@ -1,5 +1,4 @@
-id="main_content">
-        <h1 id="httpsKodiTVRgithubio">https://KodiTVR.github.io</h1>
+<h1 id="httpsKodiTVRgithubio">https://KodiTVR.github.io</h1>
 		
 <p>A minha fonte, aqui instala tudo da KodiTVR!...</p>
 <p>Instruções para a adição deste repo:</p>
