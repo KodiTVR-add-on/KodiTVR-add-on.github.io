@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<h1 id="httpsKodiTVRgithubio">https://KodiTVR.github.io</h1>
+		
+<p>A minha fonte, aqui instala tudo da KodiTVR!...</p>
+<p>Instruções para a adição deste repo:</p>
+<p align="left">
+  </p><ul>
+    <li>Ir para o Kodi gestor de ficheiros.</li>
+    <li>Clicar em "Adicionar fonte"</li>
+    <li>O endereço para a fonte é <code>https://KodiTVR.github.io/</code> (Dar o nome de "repository KodiTVR").</li>
+    <li>Ir para "Addons"</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "cantinhocinema repo", e instalar <a href="/KodiTVR-add-on/KodiTVR.github.io/blob/master/repository.KodiTVR-2.5.zip">repository.KodiTVR-2.5.zip</a>.</li>
+    <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
+    <li>Selecionar o "repository KodiTVR"</li>
+<pre><code>&lt;li&gt;Agora o resto fica á vossa escolha...KodiTVR add-ons&lt;/li&gt;
+</code></pre>
+  </ul>
+<p></p>
 
-You can use the [editor on GitHub](https://github.com/KodiTVR-add-on/KodiTVR.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KodiTVR-add-on/KodiTVR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2 id="enjoy">Enjoy!</h2>
