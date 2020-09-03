@@ -13,7 +13,7 @@
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
     <li>Selecionar o "repository KodiTVR"</li>
 	
-    <li>Agora é só escolher add-ons KodiTVR.</li>
+    <li>-Agora é só escolher add-ons KodiTVR-</li>
   </ul>  
 </p>
 
