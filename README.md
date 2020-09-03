@@ -14,7 +14,7 @@
     <li>Selecionar o "repository KodiTVR"</li>
 	
     <li>Agora é só escolher add-ons KodiTVR.</li>
-    </ul>
-<p></p>
+  </ul>  
+</p>
 
 <h2 id="enjoy">Enjoy!</h2>
