@@ -1,4 +1,4 @@
-<h1 id="httpsKodiTVR-add-ongithubio">https://KodiTVR-add-on.github.io</h1>
+<h1 id="httpsKodiTVRgithubio">https://KodiTVR-add-on.github.io</h1>
 		
 <p>A minha fonte, aqui instala tudo da KodiTVR...</p>
 
