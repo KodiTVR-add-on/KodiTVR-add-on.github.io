@@ -1,4 +1,4 @@
-# <a href="repository.KodiTVR.MATRIX.zip">DOWNLOAD DO REPOSITÓRIO</a>
+# <a href="repository.KodiTVR.MATRIX.zip">DOWNLOAD REPOSITORY MATRIX KodiTVR</a>
 
 Instruções para a adição do repositório no gestor de ficheiros:
 
