@@ -1,6 +1,6 @@
 # <a href="repository.KodiTVR.MATRIX.zip">DOWNLOAD DO REPOSITÓRIO</a>
 
-Instruções para a adição no gestor:
+Instruções para a adição do repositório no gestor de ficheiros:
 
 
 <p align="left">
@@ -15,7 +15,7 @@ Instruções para a adição no gestor:
     
 </ul>
 
-                                      
-                                       
-
+                              
+							  
+							  
 </p>
